@@ -1,0 +1,21 @@
+div.main-raised {
+    margin-top: 50px;
+    padding: 10px;
+}
+
+#icon {
+    height: 100px;
+}
+
+body ul li {
+    font-size: 24px;
+    margin: 2px;
+    list-style-type: square;
+}
+
+div.block {
+    margin: 5px;
+    padding: 5px;
+    background-color: #dcdcdc;
+    border: 1px solid coral;
+}
